@@ -1,8 +1,8 @@
 # NLP/LLM/Multimodal
-some resource from myself or others
+some resource from others and me
 
 ## Transformer:
-A PDF file in Mandarin written by me explains details of Transformer components
+A PDF file in Mandarin, written by me, explains the details of the Transformer components
 ### Reference:
 [1] Dive into Deep Learning     https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html
 
