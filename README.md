@@ -15,3 +15,5 @@ https://yunyaniu.blog.csdn.net/article/details/82861982
 https://blog.csdn.net/a2352159950/article/details/103152516
 
 https://www.w3xue.com/exp/article/201810/3125.html
+
+other: https://github.com/songyingxin/NLPer-Interview/blob/master  (继续参考)
